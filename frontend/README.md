@@ -14,8 +14,16 @@ NPM:
 npm install
 ```
 
+```sh
+npm start
+```
+
 YARN:
 
 ```sh
 yarn
+```
+
+```sh
+yarn start
 ```
