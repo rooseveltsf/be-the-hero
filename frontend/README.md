@@ -4,7 +4,7 @@
 
 Be The Hero tem o objetivo de ajudar ONGs através de pessoas que sentem o desejo de ajudar.
 
-![](/src/assets/readme.png)
+![](src/assets/readme.png)
 
 ## Installation
 
